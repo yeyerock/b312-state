@@ -1,0 +1,105 @@
+/******* Medium Small Device >= 568px ***********/
+@media screen and (min-width:35.5rem) and (max-width:63rem) and (orientation:landscape){
+  /* .cont_carousel{
+    height: 300px !important;
+    } */
+   
+
+}
+
+
+/* IPAD 768px*/
+@media only screen and (min-width:48rem) and (orientation:portrait){
+  
+  /* .cont_carousel{
+    height: 270px !important;
+    } */
+  
+   
+  
+}
+
+/* Normal Desktop >= 1024px*/
+@media only screen and (min-width:64rem) and  (orientation:landscape){
+ 
+  /* .cont_carousel{
+    height: 235px !important;   
+  } */
+   
+  
+}
+
+/* Ipad Pro Vertical */
+@media only screen and (min-width:64rem) and  (orientation:portrait){
+  /* .cont_carousel{
+    height: 240px !important;
+    } */
+    
+}
+
+/*Medium Small Desktop >= 1333px*/
+@media only screen and (min-width: 83rem){
+
+    /* Fuentes */
+  .titulo_bold{
+    font-size: 2.5rem !important;;
+  }
+
+  .titulo{
+    font-size: 2.5rem !important;;
+  }
+
+  .subtitulo{
+       font-size: 2rem !important;;
+  }
+
+  .texto{
+    font-size: 1.2rem !important;
+  }    
+
+  /* .cont_carousel{
+    height: 320px !important;   
+  } */
+  
+    
+}
+
+/*Medium Small Desktop >= 1440px*/
+@media only screen and (min-width:90rem){
+
+  /* .cont_carousel{
+    height: 315px !important;   
+  } */
+
+}
+
+/* Super Large Desktop > 1720 */
+@media only screen and (min-width:108rem){
+     /* Fuentes */
+     .titulo_bold{
+        font-size: 3rem !important;;
+    }
+
+    .titulo{
+        font-size: 3rem !important;;
+    }
+
+    .subtitulo{
+        font-size: 2.5rem !important;;
+    }
+
+    .texto{
+        font-size: 1.3rem !important;
+    }
+
+    /* .cont_carousel{
+      height: 485px !important;   
+    } */
+    
+   
+}
+
+@media only screen and (min-width:160rem){
+   
+    
+}
